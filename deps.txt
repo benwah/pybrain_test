@@ -1,9 +1,5 @@
 Pillow==2.5.1
 PyBrain==0.3
 Tempita==0.5.2
-argparse==1.2.1
-ipdb==0.8
-ipython==2.1.0
 numpy==1.10.0.dev-2ec3fc0
 scipy==0.15.0.dev-26ddaf0
-wsgiref==0.1.2
